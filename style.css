@@ -109,7 +109,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 4px dotted greenyellow;
+  /* border: 4px dotted greenyellow; */
   font-size: 15px;
   font-family: "League Spartan", sans-serif;
   font-optical-sizing: auto;
@@ -120,7 +120,7 @@ body {
 .container {
   width: 100%;
   max-width: 60em;
-  border: 2px dotted dodgerblue;
+  /* border: 2px dotted dodgerblue; */
   background: url(./images/bg-pattern-top-mobile.svg) url(./images/bg-pattern-bottom-mobile.svg);
   background-position: center top center bottom;
   background-size: contain;
@@ -128,7 +128,7 @@ body {
 }
 
 .first-section {
-  border: 2px dotted bisque;
+  /* border: 2px dotted bisque; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -239,7 +239,7 @@ body {
     margin-top: 50px;
   }
   .rating {
-    padding: 20px;
+    padding: 10px;
     gap: 50px;
     flex-direction: row;
     justify-content: center;
@@ -259,7 +259,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 20px;
-    border: 2px dotted darkturquoise;
+    /* border: 2px dotted darkturquoise; */
     position: relative;
     /* height: 400px; */
   }
